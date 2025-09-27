@@ -1,3 +1,4 @@
+
 # 📋 Cadastro de Fornecedores
 
 Um sistema simples de **cadastro, busca e exclusão de fornecedores** desenvolvido com **Next.js (App Router)**.  
